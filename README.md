@@ -1,4 +1,4 @@
-# Git_Tutorial
+# Git and GitHub Tutorial
 
-## Install Git: https://phoenixnap.com/kb/how-to-install-git-windows
-## How to use git: https://phoenixnap.com/kb/how-to-use-git
+## Git and GitHub Introduction: https://www.w3schools.com/git/git_intro.asp?remote=github
+## Git Tutorial: https://www.w3schools.com/git/git_getstarted.asp?remote=github
